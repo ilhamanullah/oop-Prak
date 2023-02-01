@@ -4,6 +4,7 @@ using namespace std;
 int main(){
     /*
     rangkuman penulisan kodingan
+    *** Jika ada kesalahan tolong didiskusikan dengan pembuat agar sama sama jadi pinter ***
 
     format :
     - penulisan pada main
